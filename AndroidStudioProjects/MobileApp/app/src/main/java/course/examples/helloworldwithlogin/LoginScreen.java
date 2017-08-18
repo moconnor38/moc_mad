@@ -28,8 +28,7 @@ public class LoginScreen extends Activity {
 
                     // Create an explicit Intent for starting the HelloAndroid
                     // Activity
-                    Intent helloAndroidIntent = new Intent(LoginScreen.this,
-                            HelloAndroid.class);
+                    Intent helloAndroidIntent = new Intent(LoginScreen.this, HelloAndroid.class);
 
                     // Use the Intent to start the HelloAndroid Activity
                     startActivity(helloAndroidIntent);
@@ -37,6 +36,16 @@ public class LoginScreen extends Activity {
                     uname.setText("");
                     passwd.setText("");
                 }
+            }
+        });
+
+        final Button registerButton = (Button) findViewById(R.id.register_button);
+        registerButton.setOnClickListener(new OnClickListener() {
+
+            public void onClick(View v) {
+                Intent registerIntent = new Intent(LoginScreen.this, RegistrationScreen.class);
+
+                startActivity(registerIntent);
             }
         });
     }
