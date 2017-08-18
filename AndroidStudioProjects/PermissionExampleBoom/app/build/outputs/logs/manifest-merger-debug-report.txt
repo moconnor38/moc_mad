@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+permission#course.examples.permissionexample.BOOM_PERM
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:12:5-16:18
+	android:label
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:15:9-61
+	android:description
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:14:9-55
+	android:name
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:13:9-67
+application
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:19:5-41:19
+	android:label
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:22:9-41
+	android:permission
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:23:9-73
+	android:allowBackup
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:21:9-45
+activity#course.examples.permissionexample.boom.BoomActivity
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:24:9-40:20
+	android:label
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:25:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:30:27-74
+intent-filter#android.intent.category.DEFAULT+course.examples.permissionexample.boom.boom_action
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:35:13-39:29
+action#course.examples.permissionexample.boom.boom_action
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:36:17-93
+	android:name
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:36:25-90
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\marko\moc_mad\AndroidStudioProjects\PermissionExampleBoom\app\src\main\AndroidManifest.xml:38:27-73

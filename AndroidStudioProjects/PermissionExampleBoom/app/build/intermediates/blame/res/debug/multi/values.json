@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 58,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 113,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "C:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 113,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 72,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "C:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 72,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 45,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 45,
+                        "endOffset": 160
+                    }
+                }
+            }
+        ]
+    }
+]

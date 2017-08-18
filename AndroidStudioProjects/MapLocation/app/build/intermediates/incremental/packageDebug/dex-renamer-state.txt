@@ -1,0 +1,7 @@
+#Fri Aug 11 12:11:47 BST 2017
+base.0=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\MapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_78e68bad84a9ca582166aa30d188a37610c1a3df
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\MapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6107cb70faa13290cc88e2c54bf276afe287219a\\classes.dex
+base.1=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\MapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6107cb70faa13290cc88e2c54bf276afe287219a
+file.0=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\MapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_78e68bad84a9ca582166aa30d188a37610c1a3df\\classes.dex

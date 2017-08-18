@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu Aug 17 13:42:54 BST 2017
+1.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=DEX
+3.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\boom_layout.xml
+4.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\PermissionExampleBoom\\app\\build\\intermediates\\res\\resources-debug.ap_
