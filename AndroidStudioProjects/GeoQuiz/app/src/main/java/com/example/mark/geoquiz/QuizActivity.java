@@ -1,5 +1,6 @@
 package com.example.mark.geoquiz;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -18,6 +19,7 @@ public class QuizActivity extends AppCompatActivity {
     private Button mTrueButton;
     private Button mFalseButton;
     private Button mNextButton;
+    private Button mCheatButton;
     private TextView mQuestionTextView;
 
     private static final String TAG = "QuizActivity";
@@ -73,7 +75,18 @@ public class QuizActivity extends AppCompatActivity {
                 updateQuestion();
             }
         });
+
+        mCheatButton = (Button) findViewById(R.id.cheat_button);
+        mCheatButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //Start CheatActivity
+                Intent i = new Intent(QuizActivity.this, CheatActivity.class);
+                startActivity(i);
+            }
+        });
     }
+
 
     @Override
     public void onSaveInstanceState(Bundle savedInstanceState) {
