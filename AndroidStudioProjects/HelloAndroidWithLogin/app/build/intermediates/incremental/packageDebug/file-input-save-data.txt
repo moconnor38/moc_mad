@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Aug 25 13:26:47 BST 2017
+2.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_351f62cbb37e1257abf30dba2872d8159766baf4\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_218bda63b6e707d9b7b29ce5db5b98e5ac1a2b1f
+count=7
+0.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\helloandroid.xml
+5.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_351f62cbb37e1257abf30dba2872d8159766baf4
+4.set=DEX
+6.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\loginscreen.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_218bda63b6e707d9b7b29ce5db5b98e5ac1a2b1f\\classes.dex
+0.set=ANDROID_RESOURCE

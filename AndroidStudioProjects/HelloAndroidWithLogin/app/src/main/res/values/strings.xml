@@ -7,5 +7,9 @@
     <string name="enter_password_hint">Enter Password</string>
     <string name="login_string">Login</string>
     <string name="hello">Hello Android!</string>
+    <string name="say_hello">Hello!</string>
+    <string name="this_toggled">Toggle This</string>
+    <string name="that_toggled">Toggle That</string>
+
     
 </resources>

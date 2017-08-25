@@ -10,6 +10,8 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
+import android.widget.ToggleButton;
 
 public class LoginScreen extends Activity {
     @Override
@@ -39,7 +41,32 @@ public class LoginScreen extends Activity {
                 }
             }
         });
+        final TextView helloTextView = (TextView) findViewById(R.id.helloTextView);
+        final Button helloButton = (Button) findViewById(R.id.hello_button);
+        helloButton.setOnClickListener(new OnClickListener() {
+            public void onClick(View view) {
+                //update a tex area to say hello
+                helloTextView.setText(R.string.hello);
+                helloButton.setBackgroundColor(getResources().getColor(R.color.black));
+
+            }
+        });
+
+        final TextView toggleTextView = (TextView) findViewById(R.id.toggleTextView);
+        final ToggleButton toggleButton = (ToggleButton) findViewById(R.id.toggleButton);
+        toggleButton.setOnClickListener(new OnClickListener() {
+            public void onClick(View view) {
+                if (toggleButton.isChecked() ) {
+                    toggleTextView.setText(R.string.this_toggled);
+                    toggleTextView.setTextColor(getResources().getColor(R.color.black));
+                    toggleTextView.setBackgroundColor(getResources().getColor(R.color.white));
+                } else {
+                    toggleTextView.setText(R.string.that_toggled);
+                }
+            }
+        });
     }
+
 
     private boolean checkPassword(Editable uname, Editable passwd) {
         // Just pretending to extract text and check password
