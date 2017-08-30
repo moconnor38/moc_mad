@@ -1,0 +1,7 @@
+#Wed Aug 30 19:44:56 BST 2017
+base.0=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b101145abb1c330514fb01822e454270ef39e19d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a23aea9344d46462d62543666ff23f2e0b43ee8c\\classes.dex
+base.1=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a23aea9344d46462d62543666ff23f2e0b43ee8c
+file.0=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b101145abb1c330514fb01822e454270ef39e19d\\classes.dex

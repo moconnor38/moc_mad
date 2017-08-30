@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Aug 30 19:44:56 BST 2017
+2.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a23aea9344d46462d62543666ff23f2e0b43ee8c
+5.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b101145abb1c330514fb01822e454270ef39e19d
+2.set=DEX
+4.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a23aea9344d46462d62543666ff23f2e0b43ee8c\\classes.dex
+0.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b101145abb1c330514fb01822e454270ef39e19d\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\marko\\moc_mad\\AndroidStudioProjects\\DateTimePicker\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.set=ANDROID_RESOURCE

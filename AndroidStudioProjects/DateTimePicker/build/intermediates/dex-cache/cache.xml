@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\marko\moc_mad\AndroidStudioProjects\DateTimePicker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="831e557b8e327b5c8f67287e9c4e5b1c1e1c338a">
+        <dex dex="C:\Users\marko\moc_mad\AndroidStudioProjects\DateTimePicker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a23aea9344d46462d62543666ff23f2e0b43ee8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marko\CourseraExamples\UIDatePicker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="12b571b5465a22267777e684e855a38b70b43fc9">
+        <dex dex="C:\Users\marko\CourseraExamples\UIDatePicker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3bf13ee5029285741f29a3da4506ae0ff6bf3aca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marko\moc_mad\AndroidStudioProjects\DateTimePicker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\marko\moc_mad\AndroidStudioProjects\DateTimePicker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b101145abb1c330514fb01822e454270ef39e19d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marko\CourseraExamples\UIDatePicker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\marko\CourseraExamples\UIDatePicker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4981583791bb556a33c6a1e7901f78ed95ced4a3\classes.dex" />
+    </item>
+
+</items>
