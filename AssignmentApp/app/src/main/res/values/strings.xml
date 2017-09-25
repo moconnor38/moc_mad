@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dublin Bikes Journey Tracker</string>>
+    <string name="username_string">UserName</string>
+    <string name="password_string">Password</string>
+    <string name="enter_username_hint">Enter Username</string>
+    <string name="enter_password_hint">Enter Password</string>
+    <string name="enter_email_hint">Enter Email</string>
+    <string name="login_string">Login</string>
+    <string name="register_string">Register</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_rate">Rate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="logout_string">LogOut</string>
+    <string name="email_string">Email</string>
+    <string name="profile_string">Profile</string>
+    <string name="save_string">Save Profile</string>
+    <string name="choose_string">Choose a Picture</string>
+    <string name="upload_string">Upload your Picture</string>
+    <string name="enter_name_hint">Enter Your Name</string>
+    <string name="enter_address_hint">Enter Your Address</string>
+    <string name="map_string">Maps</string>
+    <string name="get_bikes">Get bikes</string>
+    <string name="camera_string">Camera</string>
+    <string name="journey_save_start">Origin</string>
+    <string name="journey_save_end">End</string>
+    <string name="welcome_string">Welcome to Journey Tracker</string>
+    <string name="save_journey_string">Save a Journey</string>
+    <string name="display_journey_string">Journey History</string>
+    <string name="enter_start_hint">Enter journey start point</string>
+    <string name="enter_end_hint">Enter journey end point</string>
+</resources>
