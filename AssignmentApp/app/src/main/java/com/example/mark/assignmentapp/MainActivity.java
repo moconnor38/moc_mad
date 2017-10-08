@@ -112,8 +112,8 @@ public class MainActivity extends AppCompatActivity {
         buttonBikes.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View v) {
-              // startActivity(new Intent(getApplicationContext(), JSONVolley.class));
-               Toast.makeText(getApplicationContext(), "JSON parsing not working now!", Toast.LENGTH_LONG).show();
+              startActivity(new Intent(MainActivity.this, JSONVolley.class));
+               //Toast.makeText(getApplicationContext(), "JSON parsing not working now!", Toast.LENGTH_LONG).show();
            }
        });
 

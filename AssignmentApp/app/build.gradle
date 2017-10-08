@@ -36,6 +36,7 @@ dependencies {
     compile 'com.google.code.gson:gson:2.4'
     compile 'com.android.support:support-v4:25.0.+'
     compile 'com.android.support:appcompat-v7:25.0.+'
+    compile 'com.mcxiaoke.volley:library:1.0.19'
     testCompile 'junit:junit:4.12'
 }
 
